@@ -9,7 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 def printl_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')
+    print(f'Hi, {nam}')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
